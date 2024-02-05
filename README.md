@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parbiz&label=Profile%20views&color=0e75b6&style=flat" alt="parbiz" /> </p>
 
-- 👨‍💻 My Portfolio [https://parbiz.github.io/parveshz.github.io/](https://parbiz.github.io/parveshz.github.io/)
+- 👨‍💻 My Portfolio [https://parbiz.github.io/parveshz.github.io/](https://parutechie.github.io/parvesh-portfolio)
 
 - 📫 How to reach me **parveshahamed6@gmail.com**
 
