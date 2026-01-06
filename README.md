@@ -1,13 +1,21 @@
 # ⚡ Parvesh Ganesan — Software Development Engineer
 
+
+### 🔗 Links
+- 📧 **Email:** parveshganesan@gmail.com  
+- 🐙 **GitHub:** https://github.com/parutechie  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/parveshganesan/  
+- 🌐 **Portfolio:** https://parutechie.github.io/parvesh-portfolio/
+
+
 ```ts
 const Parvesh = {
     role: "Software Development Engineer",
     contact: {
         email: "parveshganesan@gmail.com",
-        github: "[parutechie](https://github.com/parutechie/parutechie)",
-        linkedin: "[parveshganesan](https://www.linkedin.com/in/parveshganesan/)",
-        portfolio: "[Portfolio Website](https://parutechie.github.io/parvesh-portfolio/)"
+        github: "parutechie",
+        linkedin: "parveshganesan",
+        portfolio: "parutechie.github.io/parvesh-portfolio"
     },
 
     philosophy: [
