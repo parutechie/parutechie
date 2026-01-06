@@ -11,6 +11,7 @@
 ```ts
 const Parvesh = {
     role: "Software Development Engineer",
+    summary: "Software Developer by profession, AI babysitter by experience. I build scalable systems, design APIs, wrangle databases, and let machine intelligence handle the boring stuff. I create software that behaves, scales, and occasionally acts like it has a mind of its own—because why not let the code have fun too?"
     contact: {
         email: "parveshganesan@gmail.com",
         github: "parutechie",
