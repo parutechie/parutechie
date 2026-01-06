@@ -2,10 +2,10 @@
 
 
 ### 🔗 Links
-- 📧 **Email:** parveshganesan@gmail.com  
-- 🐙 **GitHub:** https://github.com/parutechie  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/parveshganesan/  
-- 🌐 **Portfolio:** https://parutechie.github.io/parvesh-portfolio/
+- **Email:** parveshganesan@gmail.com  
+- **GitHub:** https://github.com/parutechie  
+- **LinkedIn:** https://www.linkedin.com/in/parveshganesan/  
+- **Portfolio:** https://parutechie.github.io/parvesh-portfolio/
 
 
 ```ts
@@ -22,6 +22,7 @@ const Parvesh = {
         "Build first, optimize later",
         "If it works in prod, it's correct",
         "AI is cool — production AI is cooler"
+        "Code -> Learn -> Ship -> Repear :)"
     ],
 
     skills: {
@@ -62,10 +63,4 @@ const Parvesh = {
 export default Parvesh;
 
 
-while (alive) {
-    code();
-    learn();
-    ship();
-    repeat();
-}
 
