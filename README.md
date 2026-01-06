@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Parvesh Ganesna
+# 👋 Hi, I'm Parvesh Ganesan
 
 ```js
 const developer = {
