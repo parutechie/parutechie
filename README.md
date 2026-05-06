@@ -33,16 +33,14 @@ const Parvesh = {
     skills: {
         languages: [
             "Python", "Dart", "JavaScript", "TypeScript",
-            "PHP", "Swift", "Kotlin", "HTML/CSS", "SQL"
         ],
         frameworks_and_tech: [
-            "Flutter", "React.js", "Nest.js", "Node.js",
+            "Flutter", "React.js", "Nest.js", "Node.js", "Fast API"
             "PyTorch", "OpenCV", "Machine Learning",
             "AR", "REST APIs"
         ],
         tools_and_platforms: [
             "GitHub", "Docker", "Firebase",
-            "Firebase Notifications",
             "Android Studio", "Xcode",
             "PostgreSQL", "MySQL", "MongoDB"
         ],
