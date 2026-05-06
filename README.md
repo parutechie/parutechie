@@ -27,7 +27,7 @@ const Parvesh = {
         "Build first, optimize later",
         "If it works in prod, it's correct",
         "AI is cool — production AI is cooler"
-        "Code -> Learn -> Ship -> Repear :)"
+        "Code -> Learn -> Ship -> Repeat :)"
     ],
 
     skills: {
