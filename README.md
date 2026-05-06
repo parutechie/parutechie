@@ -30,25 +30,9 @@ const Parvesh = {
         "Code -> Learn -> Ship -> Repeat :)"
     ],
 
-    skills: {
-        languages: [
-            "Python", "Dart", "JavaScript", "TypeScript",
-        ],
-        frameworks_and_tech: [
-            "Flutter", "React.js", "Nest.js", "Node.js", "Fast API"
-            "PyTorch", "OpenCV", "Machine Learning",
-            "AR", "REST APIs"
-        ],
-        tools_and_platforms: [
-            "GitHub", "Docker", "Firebase",
-            "Android Studio", "Xcode",
-            "PostgreSQL", "MySQL", "MongoDB"
-        ],
-        misc: [
-            "Figma", "Illustrator", "Premiere Pro",
-            "After Effects", "Unity", "Unreal Engine 4"
-        ]
-    },
+    capabilities: [ 
+            "I turn ideas into products. AI is just my co-founder."
+    ],
 
     education: [
         "B.E. Computer Science — Vemana Institute of Technology (Jun 2023)",
